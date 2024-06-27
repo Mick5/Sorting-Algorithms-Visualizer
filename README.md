@@ -2,6 +2,27 @@
 
 This project was bootstrapped with [Create React App]
 
+# Algorithm Visualizer
+
+A web-based algorithm visualizer that demonstrates the step-by-step execution of various algorithms, including sorting and searching algorithms. The visualizer uses a dynamic array representation to illustrate the algorithm's behavior, making it easier to understand and learn.
+
+# Features:
+
+Interactive array visualization
+Support for multiple algorithms (e.g., Bubble Sort, Selection Sort, Binary Search)
+Dynamic array resizing
+Responsive design for optimal viewing on various devices
+Technologies:
+
+HTML/CSS for UI and styling
+JavaScript for algorithm implementation and visualization
+GitHub Pages for hosting and deployment
+
+# Getting Started:
+
+Clone the repository and open index.html in your browser to start exploring the visualizer.
+Use the dropdown menu to select an algorithm and watch the visualization in action.
+
 ## Available Scripts
 
 In the project directory, you can run:
