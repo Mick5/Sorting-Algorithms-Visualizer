@@ -1,7 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App]
-
 # Algorithm Visualizer
 
 A web-based algorithm visualizer that demonstrates the step-by-step execution of various algorithms, including sorting and searching algorithms. The visualizer uses a dynamic array representation to illustrate the algorithm's behavior, making it easier to understand and learn.
